@@ -51,3 +51,6 @@ December/January see higher releases, likely due to holidays.
 3. Install dependencies: pip install pandas matplotlib seaborn  
 4. Run in Jupyter: jupyter notebook netflix_data_analysis.ipynb  
 5. Execute notebook cells for analysis and visualizations.
+
+## Author
+Khushi Goswami, data enthusiast.
